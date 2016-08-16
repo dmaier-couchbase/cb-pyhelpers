@@ -1,4 +1,4 @@
-## Creates one key per vBucket and upserts it to the bucket given bucket
+## Creates one key per vBucket and upserts it to thegiven bucket
 # This can be checked by executing the following command on each node:
 # /opt/couchbase/bin/couch_dbinfo *.couch.1 | grep 'doc count: 1' | wc -l
 
